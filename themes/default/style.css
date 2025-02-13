@@ -1473,18 +1473,18 @@ select#cat {
 		display: inline-block; 
 	}
 	.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul, .nav-menu li {
-		display: none;
+		display: block;
 	}
 	.themonic-nav ul {
-		display: none;
+		display: block;
     }
 	.themonic-nav li a, .themonic-nav li {
-		display: none;
+		display: block;
     }
 	
 	.themonic-nav ul.nav-menu, .themonic-nav div.nav-menu > ul {
    
-    display: none;
+    display: block;
  
 }
 .socialmedia {
